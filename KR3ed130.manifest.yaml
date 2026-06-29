@@ -1,0 +1,253 @@
+canonical_identifier: bkk:krp/KR3ed130/v1
+canonical_location: https://kanripo.org/bkk/KR3ed130/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 葉氏錄驗方
+  identifiers:
+    krp: KR3ed130
+  tags:
+    kr-categories: KR3ed
+    tls-dates: dat04350
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ed130.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 1, filename: KR3ed130_001.yaml, hash: 'sha256:e8e725936432490d711d2f53e97530d7bea249287b0be92fcc269d81cf12f62b'}
+  - {seq: 2, filename: KR3ed130_002.yaml, hash: 'sha256:0e32ef4b05a5a7fba11b4f7a3af456cbe5a8ecd77f4ee6e46d048f45d98d7930'}
+  - {seq: 3, filename: KR3ed130_003.yaml, hash: 'sha256:514c7bae9850fbf3e1b34b07bd3aec6b35fc546e9eec491036f17d87e40db187'}
+  - {seq: 0, filename: KR3ed130_000.yaml, hash: 'sha256:702fef40b578faf7782a21cf0d762a1ec8936f6b082c92b5ade7118a63823b6d'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR3ed130_001.markers.yaml, hash: 'sha256:32ee8c2ffcb6fc4b74eae3b70395937bfdcc0d7ee44eb3219b1c15440386af1a'}
+  - {seq: 2, role: markers, filename: assets/KR3ed130_002.markers.yaml, hash: 'sha256:5733f431a1a265137927b0d7b1c3599df934fe208c5f8d2bf5442ba1d0c234a7'}
+  - {seq: 3, role: markers, filename: assets/KR3ed130_003.markers.yaml, hash: 'sha256:455f5aef5003b745ab45c1e029c7b491a02705bfcb5df80a41dcb81e39482ea1'}
+  - {seq: 0, role: markers, filename: assets/KR3ed130_000.markers.yaml, hash: 'sha256:cfc3c2d087da1079c03dc6961617e44522d14ef9416c03c31e9540ce4a47e378'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR3ed130_jc_001-d2.h1s1
+    span:
+    - body
+    - 0
+    - 19290
+  label: 上卷
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ed130_jc_001-d2d2
+    span:
+    - body
+    - 2
+    - 9395
+  label: 治諸風
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed130_jc_001-d2d3
+    span:
+    - body
+    - 9395
+    - 10892
+  label: 傷寒中暑附
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ed130_jc_001-d2d4
+    span:
+    - body
+    - 10892
+    - 19290
+  label: 治氣
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ed130_jc_002-d3.h1s1
+    span:
+    - body
+    - 0
+    - 23097
+  label: 中卷
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3ed130_jc_002-d3d2
+    span:
+    - body
+    - 2
+    - 10741
+  label: 補益心腎藥方附
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ed130_jc_002-d3d3
+    span:
+    - body
+    - 10741
+    - 12152
+  label: 痼冷
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ed130_jc_002-d3d4
+    span:
+    - body
+    - 12152
+    - 13381
+  label: 積熱
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ed130_jc_002-d3d5
+    span:
+    - body
+    - 13381
+    - 15883
+  label: 痰飲咳嗽
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ed130_jc_002-d3d6
+    span:
+    - body
+    - 15883
+    - 19723
+  label: 泄痢
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ed130_jc_002-d3d7
+    span:
+    - body
+    - 19723
+    - 23097
+  label: 婦人
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed130_jc_003-d4.h1s1
+    span:
+    - body
+    - 0
+    - 24761
+  label: 下卷
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3ed130_jc_003-d4d2
+    span:
+    - body
+    - 2
+    - 5300
+  label: 小兒方
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed130_jc_003-d4d3
+    span:
+    - body
+    - 5300
+    - 9043
+  label: 雜病
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed130_jc_003-d4d4
+    span:
+    - body
+    - 9043
+    - 11173
+  label: 傷方
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed130_jc_003-d4d5
+    span:
+    - body
+    - 11173
+    - 13773
+  label: 治眼目
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed130_jc_003-d4d6
+    span:
+    - body
+    - 13773
+    - 15259
+  label: 治咽喉口齒
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed130_jc_003-d4d7
+    span:
+    - body
+    - 15259
+    - 18682
+  label: 治瘡腫傷折
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed130_jc_003-d4d8
+    span:
+    - body
+    - 18682
+    - 19782
+  label: 湯方
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed130_jc_003-d4d9
+    span:
+    - body
+    - 19782
+    - 20010
+  label: 香譜
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed130_jc_003-d4d10
+    span:
+    - body
+    - 20010
+    - 24761
+  label: 備急諸方
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ed130_jc_000-d5.h1s1
+    span:
+    - body
+    - 0
+    - 307
+  label: 跋
+  type: section
+  level: 1
+hash: sha256:008b9b6c9425341be67a8b07b0180cad786677628ee0fa698f676602dbdd93e5
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
